@@ -1,4 +1,4 @@
-# black-friday-sales-forecasting
+# Black-Friday-Sales-Forecasting
 
 This Streamlit web app predicts the purchase amount of a customer based on Black Friday sales data using different machine learning models: Linear Regression, Random Forest, and XGBoost.
 
